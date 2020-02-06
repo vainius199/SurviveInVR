@@ -1,0 +1,2891 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>11b7e89a4cae94542bcb6c9be7c2ee9b</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Editor/ConfigEditor.cs</fileName>
+    <timeStamp>2018-12-02T09:37:02+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.ConfigEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>296c1775a3a72104091469b9f856ae7b</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Editor/DynamicOcclusionEditor.cs</fileName>
+    <timeStamp>2018-12-02T09:37:04+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.DynamicOcclusionEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11a6b248e0eebc44bb9ba203d8a8d77a</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Editor/EditorCommon.cs</fileName>
+    <timeStamp>2018-12-02T09:37:02+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.EditorCommon</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>554d3ed087749984585096b2d627574b</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Editor/EditorExtensions.cs</fileName>
+    <timeStamp>2018-12-02T09:37:09+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.EditorExtensions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>962298216d0e67f4c9294aa63ae5e9a4</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Editor/EditorStrings.cs</fileName>
+    <timeStamp>2018-12-02T09:37:19+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.EditorStrings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4e8fc152d1cdffb45bfa3e7f1e119021</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Editor/ReflectionUtils.cs</fileName>
+    <timeStamp>2018-12-02T09:37:08+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.ReflectionUtils</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ded92402e19378c4a90ceb5ed4b418f9</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Editor/TriggerZoneEditor.cs</fileName>
+    <timeStamp>2018-12-02T09:37:24+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.TriggerZoneEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>264a06b7c9bbc6940bd66056f4a38291</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Editor/VolumetricDustParticlesEditor.cs</fileName>
+    <timeStamp>2018-12-02T09:37:04+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.VolumetricDustParticlesEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2bd45af80c148e249bd23ff7970f6181</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Editor/VolumetricLightBeamEditor.cs</fileName>
+    <timeStamp>2018-12-02T09:37:04+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.VolumetricLightBeamEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c266971950f6c8249832946861d54fa8</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Samples/Scripts/CameraToggleBeamVisibility.cs</fileName>
+    <timeStamp>2018-12-02T09:37:22+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB_Samples.CameraToggleBeamVisibility</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aa80be3114439164cb57d970b56bc816</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Samples/Scripts/CheckIfInsideBeam.cs</fileName>
+    <timeStamp>2018-12-02T09:37:20+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB_Samples.CheckIfInsideBeam</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd7339057fb22c84ea73609eb1efb890</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Samples/Scripts/FeaturesNotSupportedMessage.cs</fileName>
+    <timeStamp>2018-12-02T09:37:24+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB_Samples.FeaturesNotSupportedMessage</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>73cef9fd683cb8c4fb218b6e5dc2f16e</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Samples/Scripts/FreeCameraController.cs</fileName>
+    <timeStamp>2018-12-02T09:37:13+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB_Samples.FreeCameraController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>40a4b77a9b84c3040a81c0b7a629248a</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Samples/Scripts/LightGenerator.cs</fileName>
+    <timeStamp>2018-12-02T09:37:07+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB_Samples.LightGenerator</string>
+      <string>VLB_Samples.LightGeneratorEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>031dc173b8912b246aaed3b7e88df54e</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Samples/Scripts/Rotater.cs</fileName>
+    <timeStamp>2018-12-02T09:37:01+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB_Samples.Rotater</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>50a48a2b69575db4c8b5bf5aa8186d89</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/BeamGeometry.cs</fileName>
+    <timeStamp>2019-11-13T19:00:45.0085434+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.BeamGeometry</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b455c84cf6c7ad74e84e15749caaccc3</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/CachedLightProperties.cs</fileName>
+    <timeStamp>2018-12-02T09:37:21+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.CachedLightProperties</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fed3f3d91454db34f894abc9ea1d8ec4</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/Config.cs</fileName>
+    <timeStamp>2018-12-02T09:37:27+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.Config</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aa337c7dd20e18b49b4b0b5b42e59e96</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/Consts.cs</fileName>
+    <timeStamp>2018-12-02T09:37:19+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.Consts</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>558dd6d156642974780bc97cd2ab1bd2</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/DynamicOcclusion.cs</fileName>
+    <timeStamp>2018-12-02T09:37:10+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.DynamicOcclusion</string>
+      <string>VLB.DynamicOcclusion+HitResult</string>
+      <string>VLB.DynamicOcclusion+EditorDebugData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>368667f41a4ca5a48bb73bc39c67ab69</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/Enums.cs</fileName>
+    <timeStamp>2018-12-02T09:37:06+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.ColorMode</string>
+      <string>VLB.AttenuationEquation</string>
+      <string>VLB.BlendingMode</string>
+      <string>VLB.MeshType</string>
+      <string>VLB.RenderingMode</string>
+      <string>VLB.RenderQueue</string>
+      <string>VLB.OccluderDimensions</string>
+      <string>VLB.PlaneAlignment</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0e4bae9c762e9004296c04beb33798ed</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/GlobalMesh.cs</fileName>
+    <timeStamp>2018-12-02T09:37:02+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.GlobalMesh</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eb22530640d12f542baf4bb5bf6306ff</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/GpuInstancing.cs</fileName>
+    <timeStamp>2018-12-02T09:37:25+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.GpuInstancing</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e7b5213963066994eaa8a96b953deb97</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/HighlightNullAttribute.cs</fileName>
+    <timeStamp>2018-12-02T09:37:25+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.HighlightNullAttribute</string>
+      <string>VLB.HighlightNullDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f3b53f8b071fa74997d838b723bcfa7</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/MaterialManager.cs</fileName>
+    <timeStamp>2018-12-02T09:37:13+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.BlendingMode</string>
+      <string>VLB.MaterialManager</string>
+      <string>VLB.MaterialManager+BlendingMode</string>
+      <string>VLB.MaterialManager+Noise3D</string>
+      <string>VLB.MaterialManager+DepthBlend</string>
+      <string>VLB.MaterialManager+ColorGradient</string>
+      <string>VLB.MaterialManager+ClippingPlane</string>
+      <string>VLB.MaterialManager+StaticProperties</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bc0059e5d7876fb4b97e542dcc0e8350</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/MeshGenerator.cs</fileName>
+    <timeStamp>2018-12-02T09:37:21+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.MeshGenerator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>57abb2ea789b7604eae964ef5c2fdcbb</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/Noise3D.cs</fileName>
+    <timeStamp>2018-12-02T09:37:10+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.Noise3D</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5b5217c9f8723a447824a7530d14c03d</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/TriggerZone.cs</fileName>
+    <timeStamp>2018-12-02T09:37:11+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.TriggerZone</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a3c52d4dd2a02a4499d1c94fcc9c542</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/Utils.cs</fileName>
+    <timeStamp>2018-12-02T09:37:16+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.Utils</string>
+      <string>VLB.Utils+FloatPackingPrecision</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c62ea6a423ab5824c9d344b83ee9706e</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/Version.cs</fileName>
+    <timeStamp>2018-12-02T09:37:23+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.Version</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e39f0f7e17f11f2448932da58e9b63d4</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/VolumetricDustParticles.cs</fileName>
+    <timeStamp>2018-12-02T09:37:25+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.VolumetricDustParticles</string>
+      <string>VLB.VolumetricDustParticles+Direction</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b69c542c9a8f4f44a3123e3fa103d13</guid>
+    <fileName>Assets/Plugins/VolumetricLightBeam/Scripts/VolumetricLightBeam.cs</fileName>
+    <timeStamp>2018-12-02T09:37:14+02:00</timeStamp>
+    <typeFullName>
+      <string>VLB.VolumetricLightBeam</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>954316120e1ac554a826eb6d96276e2c</guid>
+    <fileName>Assets/GameEnd.cs</fileName>
+    <timeStamp>2020-01-14T15:30:47.1281915+02:00</timeStamp>
+    <typeFullName>
+      <string>GameEnd</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7ae5fe346e57ba34aa11b882641ed640</guid>
+    <fileName>Assets/InventorySlot.cs</fileName>
+    <timeStamp>2020-01-06T23:27:44.4467917+02:00</timeStamp>
+    <typeFullName>
+      <string>InventorySlot</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b86e833b584717947b8e23ad207aeef6</guid>
+    <fileName>Assets/InventoryUI.cs</fileName>
+    <timeStamp>2020-01-06T20:31:47.4571768+02:00</timeStamp>
+    <typeFullName>
+      <string>InventoryUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0cc4adff17ec8434abe4805bbb05c079</guid>
+    <fileName>Assets/ItemPickup.cs</fileName>
+    <timeStamp>2020-01-06T23:49:20.359695+02:00</timeStamp>
+    <typeFullName>
+      <string>ItemPickup</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>18abdf8896ab4a4499832fb79d79304b</guid>
+    <fileName>Assets/ItemUse.cs</fileName>
+    <timeStamp>2020-01-09T17:45:48.7079883+02:00</timeStamp>
+    <typeFullName>
+      <string>ItemUse</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9aff3583f513a6d40bf25ad9e4ed1cb1</guid>
+    <fileName>Assets/QuickGame.cs</fileName>
+    <timeStamp>2020-01-09T16:38:55.7144181+02:00</timeStamp>
+    <typeFullName>
+      <string>QuickGame</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>48e92ac3978587c4e87853155933e1d4</guid>
+    <fileName>Assets/SyncCamera.cs</fileName>
+    <timeStamp>2020-01-09T17:47:20.9612077+02:00</timeStamp>
+    <typeFullName>
+      <string>SyncCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4bad0c1126218134b889f29aa44f2d4e</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Editor/BConst.cs</fileName>
+    <timeStamp>2019-10-04T18:04:53+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BConst</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6087e20fd1eb0be4b8667661a5f1551f</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Editor/BEditorGUI.cs</fileName>
+    <timeStamp>2019-10-04T18:04:55+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BEditorGUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a12ab7864a17044ca9ff79856b2d454</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Editor/BEditorUtils.cs</fileName>
+    <timeStamp>2019-10-04T18:05:04+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BEditorUtils</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b1280c266cb567442bebe105bc251ebf</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Editor/BVersion.cs</fileName>
+    <timeStamp>2019-10-04T18:05:08+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BVersion</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aaad6d1a199ca1a40b68c042ccfb6366</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/BCategoryAttribute.cs</fileName>
+    <timeStamp>2019-10-04T18:05:06+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BCategoryAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28591af402db9a54986848fad7efe295</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/BInteractiveAttribute.cs</fileName>
+    <timeStamp>2019-10-04T18:04:48+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BInteractiveAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab1dec69a0eced04980b808363d1a411</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/BMessageAttribute.cs</fileName>
+    <timeStamp>2019-10-04T18:05:06+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BMessageAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>03acd1ffba9a383439eabab79257a490</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/BRangeOptionsAttribute.cs</fileName>
+    <timeStamp>2019-10-04T18:04:41+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BRangeOptionsAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6b27a8409a531164fb1bf65ce0a74fb5</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/BRangeSimpleAttribute.cs</fileName>
+    <timeStamp>2019-10-04T18:04:57+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BRangeSimpleAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f233e885414e86a429427cd602529103</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/Editor/BBannerDrawer.cs</fileName>
+    <timeStamp>2019-10-04T18:05:17+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BBannerDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>665bcab8227c226419b2b3f5a2005dd5</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/Editor/BCategoryAttributeDrawer.cs</fileName>
+    <timeStamp>2019-10-04T18:04:56+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BCategoryAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba95ab923ea7d0f4c8138c91df353953</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/Editor/BCategoryDrawer.cs</fileName>
+    <timeStamp>2019-10-04T18:05:10+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BCategoryDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>afdcceb1639bff341a824912b8578c55</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/Editor/BInteractiveAttributeDrawer.cs</fileName>
+    <timeStamp>2019-10-04T18:05:07+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BInteractiveAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bde65f3a57f99834696646c564792f24</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/Editor/BInteractiveDrawer.cs</fileName>
+    <timeStamp>2019-10-04T18:05:11+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BInteractiveDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9f7dc50a9571da149a3c46042d55aec9</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/Editor/BMessageAttributeDrawer.cs</fileName>
+    <timeStamp>2019-10-04T18:05:05+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BMessageAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f64a741b6429cc7418c99577e6d076f7</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/Editor/BMessageDrawer.cs</fileName>
+    <timeStamp>2019-10-04T18:05:18+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BMessageDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75982df7d8209fa4b915e73bbe126e8d</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/Editor/BRangeOptionsAttributeDrawer.cs</fileName>
+    <timeStamp>2019-10-04T18:04:59+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BRangeOptionAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>832bd746dcb0e3a458d151f4a9e8fcbf</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/PropertyDrawers/Editor/BRangeSimpleAttributeDrawer.cs</fileName>
+    <timeStamp>2019-10-04T18:05:01+03:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BRangeSimpleAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>34382083ad114a07d000fbfb8d76c639</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/BlurEffect.cs</fileName>
+    <timeStamp>2014-04-25T02:31:24+03:00</timeStamp>
+    <typeFullName>
+      <string>BlurEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ea59781cad112c75d0008dfa8d76c639</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/ColorCorrectionEffect.cs</fileName>
+    <timeStamp>2014-04-25T02:35:45+03:00</timeStamp>
+    <typeFullName>
+      <string>ColorCorrectionEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ec92b071d2d424aecb3e46f28eb63174</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/ContrastStretchEffect.cs</fileName>
+    <timeStamp>2014-04-25T02:35:47+03:00</timeStamp>
+    <typeFullName>
+      <string>ContrastStretchEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d1352984e3c6465088f6cc7c4ce6e22</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/GlowEffect.cs</fileName>
+    <timeStamp>2014-04-25T02:30:36+03:00</timeStamp>
+    <typeFullName>
+      <string>GlowEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>243a781cad112c75d0008dfa8d76c639</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/GrayscaleEffect.cs</fileName>
+    <timeStamp>2014-04-25T02:30:57+03:00</timeStamp>
+    <typeFullName>
+      <string>GrayscaleEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f6469eb0ad1119d6d00011d98d76c639</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/ImageEffectBase.cs</fileName>
+    <timeStamp>2014-04-25T02:36:00+03:00</timeStamp>
+    <typeFullName>
+      <string>ImageEffectBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>89a037199d11087f1100e2b844295342</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/ImageEffects.cs</fileName>
+    <timeStamp>2014-04-25T02:33:29+03:00</timeStamp>
+    <typeFullName>
+      <string>ImageEffects</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>478a2083ad114a07d000fbfb8d76c639</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/MotionBlur.cs</fileName>
+    <timeStamp>2014-04-25T02:31:44+03:00</timeStamp>
+    <typeFullName>
+      <string>MotionBlur</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a88a26a276b4e47619ce2c5adad33fab</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/NoiseEffect.cs</fileName>
+    <timeStamp>2014-04-25T02:34:04+03:00</timeStamp>
+    <typeFullName>
+      <string>NoiseEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a07a781cad112c75d0008dfa8d76c639</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/SepiaToneEffect.cs</fileName>
+    <timeStamp>2014-04-25T02:33:53+03:00</timeStamp>
+    <typeFullName>
+      <string>SepiaToneEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b0923359e9e352a4b9b11c7b7161ad67</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/SSAOEffect.cs</fileName>
+    <timeStamp>2019-10-29T13:22:14.5145765+02:00</timeStamp>
+    <typeFullName>
+      <string>SSAOEffect</string>
+      <string>SSAOEffect+SSAOSamples</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bdda781cad112c75d0008dfa8d76c639</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/TwirlEffect.cs</fileName>
+    <timeStamp>2014-04-25T02:34:29+03:00</timeStamp>
+    <typeFullName>
+      <string>TwirlEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a94b781cad112c75d0008dfa8d76c639</guid>
+    <fileName>Assets/Cartoon Town and Farm/Standard Assets/Image Effects (Pro Only)/VortexEffect.cs</fileName>
+    <timeStamp>2014-04-25T02:34:04+03:00</timeStamp>
+    <typeFullName>
+      <string>VortexEffect</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>62e48101a4659f14da058e5a417859ba</guid>
+    <fileName>Assets/Cartoon Town and Farm/Tools/CameraBehaviors.cs</fileName>
+    <timeStamp>2014-04-25T02:32:16+03:00</timeStamp>
+    <typeFullName>
+      <string>CameraBehaviors</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fa5fac99c2b052b4e89678c65cae204e</guid>
+    <fileName>Assets/Cartoon Town and Farm/Tools/ScrollingUVs.cs</fileName>
+    <timeStamp>2019-10-29T13:22:14.5155731+02:00</timeStamp>
+    <typeFullName>
+      <string>ScrollingUVs</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba4b00369ddbede42b771299961403df</guid>
+    <fileName>Assets/Cartoon Town and Farm/Tools/Birds Swarm/Bird.cs</fileName>
+    <timeStamp>2014-04-25T02:34:26+03:00</timeStamp>
+    <typeFullName>
+      <string>Bird</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>984c13498c0295a45805748a8434741b</guid>
+    <fileName>Assets/Cartoon Town and Farm/Tools/Birds Swarm/Swarm.cs</fileName>
+    <timeStamp>2014-04-25T02:33:46+03:00</timeStamp>
+    <typeFullName>
+      <string>Swarm</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eff8f66c6d21fdc41a17cb0460edc205</guid>
+    <fileName>Assets/Cartoon Town and Farm/Tools/Birds Swarm/SwarmCenter.cs</fileName>
+    <timeStamp>2014-04-25T02:35:55+03:00</timeStamp>
+    <typeFullName>
+      <string>SwarmCenter</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T20:51:26+02:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b2d5a7a64cb36b94fb3234899ed1afb0</guid>
+    <fileName>Assets/GoogleVR/Beta/Demos/Scripts/DemoObjectController6DoF.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Beta.Demos.DemoObjectController6DoF</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>24623b77a61c743eaa47d0bc1b6a818f</guid>
+    <fileName>Assets/GoogleVR/Beta/Demos/Scripts/DemoSeeThroughController.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Beta.Demos.DemoSeeThroughController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e10e28d2cc4e040d392ffbd22271fec0</guid>
+    <fileName>Assets/GoogleVR/Beta/Scripts/GvrBetaControllerInput.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Beta.GvrBetaControllerInput</string>
+      <string>GoogleVR.Beta.GvrBetaControllerInput+Configuration</string>
+      <string>GoogleVR.Beta.GvrBetaControllerInput+TrackingStatusFlags</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>63dd62cc4cd464485a1cb34634b6380e</guid>
+    <fileName>Assets/GoogleVR/Beta/Scripts/GvrBetaControllerState.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Beta.GvrBetaControllerState</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d5f98cfdb173ab4db83e5e352f4157d</guid>
+    <fileName>Assets/GoogleVR/Beta/Scripts/GvrBetaControllerVisualMulti.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Beta.GvrBetaControllerVisualMulti</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3bb8269934bb74dbfa736cced96c7dfe</guid>
+    <fileName>Assets/GoogleVR/Beta/Scripts/GvrBetaHeadset.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Beta.GvrBetaSeeThroughCameraMode</string>
+      <string>GoogleVR.Beta.GvrBetaSeeThroughSceneType</string>
+      <string>GoogleVR.Beta.GvrBetaHeadset</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9e12e6f5292849138d69ae9652ec4c7</guid>
+    <fileName>Assets/GoogleVR/Beta/Scripts/GvrBetaSettings.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Beta.GvrBetaFeature</string>
+      <string>GoogleVR.Beta.GvrBetaSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3ad1f53be83054af3bf2009537097ffe</guid>
+    <fileName>Assets/GoogleVR/Beta/Scripts/GvrControllerInputDeviceExtension.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Beta.GvrControllerInputDeviceExtension</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3c88f74ab5b2a4da485361f0518f33d1</guid>
+    <fileName>Assets/GoogleVR/Beta/Scripts/Internal/GvrBetaAndroidNativeControllerInputProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Beta.GvrBetaAndroidNativeControllerInputProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>17819b7cdd6cd4bed942d6bac1692381</guid>
+    <fileName>Assets/GoogleVR/Beta/Scripts/Internal/GvrBetaEditorControllerInputProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Beta.GvrBetaEditorControllerInputProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>128e448f226e2478dbd01209ac6b5237</guid>
+    <fileName>Assets/GoogleVR/Beta/Scripts/Internal/GvrBetaHeadsetProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.GvrBetaHeadsetProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>92fe087984da347418a1018b22a805f9</guid>
+    <fileName>Assets/GoogleVR/Beta/Scripts/Internal/GvrBetaSettingsProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.GvrBetaSettingsProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>509a29025635b4c31bb337addea72a7c</guid>
+    <fileName>Assets/GoogleVR/Demos/Editor/DemoInputManagerEditor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Demos.DemoInputManagerEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b7c28afb12456b7469919c6a64cee9c1</guid>
+    <fileName>Assets/GoogleVR/Demos/Editor/PermissionsDemoBuildProcessor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Demos.PermissionsDemoBuildProcessor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5d21c263a13154ba69048ad7e9f4a275</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/DemoInfoPanel.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Demos.DemoInfoPanel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ddd25f1308577456cbaa207901961126</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/DemoInputManager.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Demos.DemoInputManager</string>
+      <string>GoogleVR.Demos.DemoInputManager+EmulatedPlatformType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1bec9ea3efe7849ffae666549aca3cad</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/DemoSceneManager.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.Demos.DemoSceneManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>94f5d450d1bd94c97b1dc8109b633ac0</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/HelloVR/HeadsetDemoManager.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.HelloVR.HeadsetDemoManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ae2d286fc7c3e427bbde238c0ebb970b</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/HelloVR/HelloVRManager.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.HelloVR.HelloVRManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b6d9412aff759420192d8dcf33f969bb</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.HelloVR.ObjectController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ff12693eea0a446d0a2183f2ffe9c711</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/KeyboardDemo/KeyboardDelegateExample.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.KeyboardDemo.KeyboardDelegateExample</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4e8df902e7cb54f57bd1492b46fbe33d</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/PermissionsDemo/PermissionsFlowManager.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.PermissionsDemo.PermissionsFlowManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2e71f5afb881f443bbce909fe451d8fe</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/AutoPlayVideo.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.AutoPlayVideo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0cc7f51d6c6b140f79f7afded8b84284</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/ScrubberEvents.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.ScrubberEvents</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>114ed7f3f1d114a2988b1f93a233b40e</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/SwitchVideos.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.SwitchVideos</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11ce60bdf78924133940a4a64555e784</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/VideoControlsManager.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.VideoControlsManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>70f36fab7a81646eeb5c083264db5be0</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/VideoPlayerReference.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.VideoPlayerReference</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>25d360aef03fb4c7ba94b2ee40251a24</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/InputEvents/BoolEvent.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.BoolEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5f3d7e9ca47ce4799ab245e57ac7043f</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/InputEvents/ButtonEvent.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.ButtonEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2b0edb9779e904e3998b1b65bcc8d6d6</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/InputEvents/FloatEvent.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.FloatEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>479dd5a30665142c393a0670483e4e97</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/InputEvents/GameObjectEvent.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.GameObjectEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3725fb9950d834c28b8c8263c8c45969</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/InputEvents/TouchPadEvent.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.TouchPadEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43cd0765b09374af19eb4d7acbea02ba</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/InputEvents/TransformEvent.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.TransformEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>60f1e4636c2474e55a25e6d4ff372ee7</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/InputEvents/Vector2Event.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.Vector2Event</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4c75c86da0ae44394be62c13431686c2</guid>
+    <fileName>Assets/GoogleVR/Demos/Scripts/VideoDemo/InputEvents/Vector3Event.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GoogleVR.VideoDemo.Vector3Event</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>acad0e6b1721a4b30992f78c06434321</guid>
+    <fileName>Assets/GoogleVR/Editor/GvrBuildProcessor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrBuildProcessor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f789f1d07e73f42b398b211da58efc42</guid>
+    <fileName>Assets/GoogleVR/Editor/GvrEditorEmulatorEditor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrEditorEmulatorEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5eb60798954e54a7280c0cd353773edf</guid>
+    <fileName>Assets/GoogleVR/Editor/GvrEditorMenu.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrEditorMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ce0ec89649a704bd991b4db7e412794f</guid>
+    <fileName>Assets/GoogleVR/Editor/GvrEditorSettings.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrEditorSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a2377449ab35649b58bcd7315f345e88</guid>
+    <fileName>Assets/GoogleVR/Editor/GvrHeadsetEditor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrHeadsetEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f753bca1909314275a77fb53ced78d95</guid>
+    <fileName>Assets/GoogleVR/Editor/InstantPreviewEditor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.InstantPreviewEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>05d7d64713447433b86cb9a4e3d48560</guid>
+    <fileName>Assets/GoogleVR/Editor/Controller/GvrControllerVisualEditor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrControllerVisualEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc6e38fe705a640ba9cc80555465b13e</guid>
+    <fileName>Assets/GoogleVR/Editor/Controller/GvrLaserPointerEditor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrLaserPointerEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66fe40e11a2514648906e6825b026b85</guid>
+    <fileName>Assets/GoogleVR/Editor/Controller/GvrLaserVisualEditor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrLaserVisualEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>23485e28fa60c463f8235998a0e76e6a</guid>
+    <fileName>Assets/GoogleVR/Editor/Controller/GvrTooltipEditor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrTooltipEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>da538b2d940864934bfd4a6f2e6d0602</guid>
+    <fileName>Assets/GoogleVR/Editor/EventSystem/GvrPointerScrollInputEditor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrPointerScrollInputEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cb5f458261eac491b9379eb30aec0947</guid>
+    <fileName>Assets/GoogleVR/Scripts/GvrCardboardHelpers.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrCardboardHelpers</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>41679d3338266415f88d226e6bf3d0be</guid>
+    <fileName>Assets/GoogleVR/Scripts/GvrEditorEmulator.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrEditorEmulator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c485d86d5e69340f09123a723b06bc87</guid>
+    <fileName>Assets/GoogleVR/Scripts/GvrSettings.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrSettings</string>
+      <string>GvrSettings+ViewerPlatformType</string>
+      <string>GvrSettings+UserPrefsHandedness</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>12bd1ba026e3d49a285ef666388aa4e9</guid>
+    <fileName>Assets/GoogleVR/Scripts/GvrUnitySdkVersion.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrUnitySdkVersion</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d6dc4d56dabb6444a8fda878f2e8acc1</guid>
+    <fileName>Assets/GoogleVR/Scripts/Pose3D.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Pose3D</string>
+      <string>MutablePose3D</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e7dcc90c2e60c4011896c7f21fc1f557</guid>
+    <fileName>Assets/GoogleVR/Scripts/Cardboard/GvrReticlePointer.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrReticlePointer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>41251d5f89d5546bb9d8ba907686b71f</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/GvrControllerInput.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrConnectionState</string>
+      <string>GvrControllerApiStatus</string>
+      <string>GvrControllerBatteryLevel</string>
+      <string>GvrControllerButton</string>
+      <string>GvrControllerHand</string>
+      <string>GvrControllerInput</string>
+      <string>GvrControllerInput+OnStateChangedEvent</string>
+      <string>GvrControllerInput+EmulatorConnectionMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b912427c85634a3fa13020a8d93c38a</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/GvrControllerInputDevice.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrControllerInputDevice</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b5cd7f7fcfc8a4c1fbc201ccc579556d</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/GvrControllerReticleVisual.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrControllerReticleVisual</string>
+      <string>GvrControllerReticleVisual+FaceCameraData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aa952cbcc0eb13d4ca558b6da550ff55</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/GvrControllerVisual.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrControllerVisual</string>
+      <string>GvrControllerVisual+ControllerDisplayState</string>
+      <string>GvrControllerVisual+VisualAssets</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>51b65678ccdd949e9a58874d2880c0ef</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/GvrLaserPointer.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrLaserPointer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f4ee199cdc1304b2090f019e4f488674</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/GvrLaserVisual.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrLaserVisual</string>
+      <string>GvrLaserVisual+GetPointForDistanceDelegate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5d8d09b9e5d2437aa022780a2ce8c83</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/GvrRecenterOnlyController.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrRecenterOnlyController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>311793381eb9d45149dc1a422000a9fd</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/GvrTrackedController.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrTrackedController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2a4fdc21aee934d82baa564e797da921</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/IGvrControllerInputDeviceReceiver.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>IGvrControllerInputDeviceReceiver</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7dda4bb2d5509e44e978d2bf56e25d7c</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/ArmModel/GvrArmModel.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrArmModel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b621d217eade547b4841c4471106b6e5</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/ArmModel/GvrBaseArmModel.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrBaseArmModel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cb01f40fa958548a5b1f92a685e6d46d</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/ArmModel/IGvrArmModelReceiver.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>IGvrArmModelReceiver</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9f9210011b71142d5966eec2db6cc696</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviderFactory.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.ControllerProviderFactory</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9159532a8a3d946aa9df74e771243e5b</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/ControllerState.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.ControllerState</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8358cf789a848412fbb10ba05c4f3fce</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/ControllerUtils.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.ControllerUtils</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a546592901a23411d99a5fef0ada01e7</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/IControllerProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.IControllerProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3e968996b071c460f9b80785694ce6c4</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/AndroidNativeShimControllerProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0f791be37caef48c79f72011276ab16a</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/DummyControllerProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.DummyControllerProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e0a32f2191dec4e1b8e05acab6002be6</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/EditorControllerProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.EditorControllerProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0ca644865f5f4479fb50471605078cf0</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/EmulatorControllerProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.EmulatorControllerProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d8b9c789363a44b1e87727b1c4d085f6</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviders/MouseControllerProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.MouseControllerProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6bf1f92fb4ae24291b71e77c1ccac323</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorClientSocket.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.EmulatorClientSocketConnectionState</string>
+      <string>Gvr.Internal.EmulatorClientSocket</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a229fefd8ee7448b0b700f6000ebdec3</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorConfig.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.EmulatorConfig</string>
+      <string>Gvr.Internal.EmulatorConfig+Mode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>76d2b695633884daf905c07095c8a01c</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorDataTypes.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.EmulatorGyroEvent</string>
+      <string>Gvr.Internal.EmulatorAccelEvent</string>
+      <string>Gvr.Internal.EmulatorTouchEvent</string>
+      <string>Gvr.Internal.EmulatorOrientationEvent</string>
+      <string>Gvr.Internal.EmulatorButtonEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c42ca6bb02b364893b127c681c158442</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorManager.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.EmulatorManager</string>
+      <string>Gvr.Internal.EmulatorManager+OnGyroEvent</string>
+      <string>Gvr.Internal.EmulatorManager+OnAccelEvent</string>
+      <string>Gvr.Internal.EmulatorManager+OnTouchEvent</string>
+      <string>Gvr.Internal.EmulatorManager+OnOrientationEvent</string>
+      <string>Gvr.Internal.EmulatorManager+OnButtonEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a6b456eb0cd540a489e0f82c377b187</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Internal/Emulator/Generated/PhoneEvent.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>proto.PhoneEvent</string>
+      <string>proto.PhoneEvent+Types</string>
+      <string>proto.PhoneEvent+Builder</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef63f87a26b474e1c88f77dfc4f3aa3a</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Tooltips/GvrControllerTooltipsSimple.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrControllerTooltipsSimple</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7c52851ea0de74a228fa29a84de008ba</guid>
+    <fileName>Assets/GoogleVR/Scripts/Controller/Tooltips/GvrTooltip.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrTooltip</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>41c83891d500f43ca90ce70315712c84</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/GvrBasePointer.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrBasePointer</string>
+      <string>GvrBasePointer+RaycastMode</string>
+      <string>GvrBasePointer+PointerRay</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b05767d6e8b854cd0987b344898cc15d</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/GvrBasePointerRaycaster.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrBasePointerRaycaster</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2a443597ee157fe49a30c4310f1fb2eb</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/GvrExecuteEventsExtension.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrExecuteEventsExtension</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cd2cb616496014a37b6820203c567a77</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/GvrPointerEventData.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrPointerEventData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9387b16b3e4094244adb0bf7dc9ca17a</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/GvrPointerEventDataExtension.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrPointerEventDataExtension</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>739800cd36aba44e9b04ce977e5784bd</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/GvrPointerGraphicRaycaster.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrPointerGraphicRaycaster</string>
+      <string>GvrPointerGraphicRaycaster+BlockingObjects</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eb5dd43baba2d4dc1bab789615567e3d</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/GvrPointerPhysicsRaycaster.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrPointerPhysicsRaycaster</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>23744ffc3b678488e858089d1a2973d9</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/GvrPointerScrollInput.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrPointerScrollInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5db1ab7348db34ecbac8c834c5d3425f</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/GvrScrollSettings.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrScrollSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>12a8088f6fe474f31bffbd957940f5fe</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/GvrXREventsSubscriber.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrXREventsSubscriber</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e7441953e05443d4fa517d1ce7382b0c</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/IGvrPointerHoverHandler.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>IGvrPointerHoverHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e4a605c315b944e7f84ed1dbe9ff6921</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/IGvrScrollSettings.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>IGvrScrollSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ca0157c63fb794df89c6735fc602eca2</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrAllEventsTrigger.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrAllEventsTrigger</string>
+      <string>GvrAllEventsTrigger+TriggerEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a93ebe04d36b49c388adce4ac442226</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrEventExecutor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrEventExecutor</string>
+      <string>GvrEventExecutor+EventDelegate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcd4baceb58cc40c98e500572bede6a6</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModule.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrPointerInputModule</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d2e5fe232b3b94de2a12eb364ebc371e</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModuleImpl.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrPointerInputModuleImpl</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>171f0a30d9ead4516a8fa319cfebe270</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/InputModule/IGvrEventExecutor.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>IGvrEventExecutor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>118ed627eb676472d803284d1a988bbd</guid>
+    <fileName>Assets/GoogleVR/Scripts/EventSystem/InputModule/IGvrInputModuleController.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>IGvrInputModuleController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ecd9463bbd7994be09b972947a085067</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/GvrHeadset.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrHeadset</string>
+      <string>GvrHeadset+OnSafetyRegionEvent</string>
+      <string>GvrHeadset+OnRecenterEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eb2c08af66d984d78bd1c1f328f04831</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Enums/GvrErrorType.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrErrorType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>767c082e8145b436291264365921ef41</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Enums/GvrEventType.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrEventType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>825c8a439883d4c5eb00f7a498b52cf0</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Enums/GvrRecenterEventType.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrRecenterEventType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>32b6801e15389450c8d629370a9fff54</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Enums/GvrRecenterFlags.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrRecenterFlags</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1ca78f1700d24467da98b9a732966abd</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Enums/GvrSafetyRegionType.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrSafetyRegionType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a8761daaa87949d9bfee83827f1cf81</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Internal/HeadsetProviderFactory.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.HeadsetProviderFactory</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>127c2783105b84d52adbb2499339f572</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Internal/HeadsetState.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.HeadsetState</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e5000c7de28ac497c8564ecb8d1f005d</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Internal/IHeadsetProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.IHeadsetProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4768e786f437540fd9f7d0c0d5778312</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Internal/HeadsetProviders/AndroidNativeHeadsetEnums.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.gvr_feature</string>
+      <string>Gvr.Internal.gvr_property_type</string>
+      <string>Gvr.Internal.gvr_value_type</string>
+      <string>Gvr.Internal.gvr_recenter_flags</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e39841bba8ebf4707aff759a1690a400</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Internal/HeadsetProviders/AndroidNativeHeadsetProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fff2ffa71f4754593a63b4ebb799955e</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Internal/HeadsetProviders/DummyHeadsetProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.DummyHeadsetProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>19a9f6c7cb74d44bd9bbc87397789f7c</guid>
+    <fileName>Assets/GoogleVR/Scripts/Headset/Internal/HeadsetProviders/EditorHeadsetProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.EditorHeadsetProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1b78ffabb50d1e94ca164106f5444e34</guid>
+    <fileName>Assets/GoogleVR/Scripts/InstantPreview/InstantPreviewHelper.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>InstantPreviewHelper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7528488988f9d48478da328909125dea</guid>
+    <fileName>Assets/GoogleVR/Scripts/InstantPreview/Internal/InstantPreview.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrEventType</string>
+      <string>GvrRecenterEventType</string>
+      <string>Gvr.Internal.InstantPreview</string>
+      <string>Gvr.Internal.InstantPreview+Resolutions</string>
+      <string>Gvr.Internal.InstantPreview+MultisampleCounts</string>
+      <string>Gvr.Internal.InstantPreview+BitRates</string>
+      <string>Gvr.Internal.InstantPreview+UnityBoolAtom</string>
+      <string>Gvr.Internal.InstantPreview+UnityFloatAtom</string>
+      <string>Gvr.Internal.InstantPreview+UnityIntAtom</string>
+      <string>Gvr.Internal.InstantPreview+UnityGvrMat4fAtom</string>
+      <string>Gvr.Internal.InstantPreview+GvrEventType</string>
+      <string>Gvr.Internal.InstantPreview+GvrRecenterEventType</string>
+      <string>Gvr.Internal.InstantPreview+UnityGvrUserPreferences</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c36f3afb2cb4ef840bf3183652900afe</guid>
+    <fileName>Assets/GoogleVR/Scripts/InstantPreview/Internal/InstantPreviewControllerProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.InstantPreviewControllerProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>02b299a09f800499f93a260fc5647d38</guid>
+    <fileName>Assets/GoogleVR/Scripts/Internal/EditorCameraOriginDict.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.EditorCameraOriginDict</string>
+      <string>Gvr.Internal.EditorCameraOriginDict+LocalOrigin</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>573e2b04dc4734d68a2b6747421ce0bc</guid>
+    <fileName>Assets/GoogleVR/Scripts/Keyboard/GvrKeyboard.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrKeyboardEvent</string>
+      <string>GvrKeyboardError</string>
+      <string>GvrKeyboardInputMode</string>
+      <string>GvrKeyboard</string>
+      <string>GvrKeyboard+StandardCallback</string>
+      <string>GvrKeyboard+EditTextCallback</string>
+      <string>GvrKeyboard+ErrorCallback</string>
+      <string>GvrKeyboard+KeyboardCallback</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3590c93395a39449ca11509317375cea</guid>
+    <fileName>Assets/GoogleVR/Scripts/Keyboard/GvrKeyboardDelegateBase.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrKeyboardDelegateBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75e29b2b7f39fc5489e792b0f3338c79</guid>
+    <fileName>Assets/GoogleVR/Scripts/Keyboard/GvrKeyboardIntent.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrKeyboardIntent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1f16e78d5a8cbe946b9dbaad22815581</guid>
+    <fileName>Assets/GoogleVR/Scripts/Keyboard/Internal/IKeyboardProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.IKeyboardProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>696c86fab86049947bd12e68a9b724cf</guid>
+    <fileName>Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviderFactory.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.KeyboardProviderFactory</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5baa0455970b442238015283920cc587</guid>
+    <fileName>Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardState.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>KeyboardState</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>494e0fcfce3cb4d1c973863b3ad4e5d0</guid>
+    <fileName>Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviders/AndroidNativeKeyboardProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.AndroidNativeKeyboardProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b9fcd2a047ec9c440a2bfeace305c425</guid>
+    <fileName>Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviders/DummyKeyboardProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.DummyKeyboardProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f73feeef531a54f2a8cf5b05a8c06e58</guid>
+    <fileName>Assets/GoogleVR/Scripts/Keyboard/Internal/KeyboardProviders/EmulatorKeyboardProvider.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.EmulatorKeyboardProvider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b0dc366f6bd074945a86579cd29111b7</guid>
+    <fileName>Assets/GoogleVR/Scripts/Permissions/GvrPermissionsRequester.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrPermissionsRequester</string>
+      <string>GvrPermissionsRequester+PermissionStatus</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4b523c05131b4a8cb07cc3780329acc</guid>
+    <fileName>Assets/GoogleVR/Scripts/PropertyDrawers/GvrInfo.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrInfo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c173d28b2a4224c52a4c8ea503f4e2b9</guid>
+    <fileName>Assets/GoogleVR/Scripts/PropertyDrawers/GvrInfoDrawer.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrInfoDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fbdf93500b5014ec9872a59cb683089a</guid>
+    <fileName>Assets/GoogleVR/Scripts/UI/GvrDropdown.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrDropdown</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a89c2f792b6ed4b3c8e3d82ed9b3c4cc</guid>
+    <fileName>Assets/GoogleVR/Scripts/Utilities/GvrActivityHelper.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrActivityHelper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c4d57836d4e064f449f3e2f03330e9ce</guid>
+    <fileName>Assets/GoogleVR/Scripts/Utilities/GvrDaydreamApi.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrDaydreamApi</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9961197a3979a4fa684159098ac5881f</guid>
+    <fileName>Assets/GoogleVR/Scripts/Utilities/GvrIntent.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrIntent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2057fd0fa21f34bc2ba2dd2a4a2a38b5</guid>
+    <fileName>Assets/GoogleVR/Scripts/Utilities/GvrMathHelpers.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrMathHelpers</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>00f93e3df109d4a69834d44deb072725</guid>
+    <fileName>Assets/GoogleVR/Scripts/Utilities/GvrUIHelpers.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrUIHelpers</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d0dea43be37504c45ab74cf9fcfbf34a</guid>
+    <fileName>Assets/GoogleVR/Scripts/Utilities/GvrVRHelpers.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrVRHelpers</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b6ecee1e7b5ef4412ba89d59a49afd69</guid>
+    <fileName>Assets/GoogleVR/Scripts/Utilities/Internal/GvrCursorHelper.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.GvrCursorHelper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>376a69755f4024896aac10f1916f8182</guid>
+    <fileName>Assets/GoogleVR/Scripts/Utilities/Internal/SuppressMemoryAllocationErrorAttribute.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>Gvr.Internal.SuppressMemoryAllocationErrorAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>410d5a91205334dda9fd1bf3d325809a</guid>
+    <fileName>Assets/GoogleVR/Scripts/Video/GvrVideoPlayerTexture.cs</fileName>
+    <timeStamp>2000-01-01T10:00:00+02:00</timeStamp>
+    <typeFullName>
+      <string>GvrVideoPlayerTexture</string>
+      <string>GvrVideoPlayerTexture+VideoType</string>
+      <string>GvrVideoPlayerTexture+VideoResolution</string>
+      <string>GvrVideoPlayerTexture+VideoPlayerState</string>
+      <string>GvrVideoPlayerTexture+VideoEvents</string>
+      <string>GvrVideoPlayerTexture+StereoMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e880d97c1e93c1843aeb6f26240d456f</guid>
+    <fileName>Assets/Low Poly FPS Pack/Third_Person_Character/Components/Plane_Demo_Scene_Components/Scripts/BlinkingLightLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:58:10+03:00</timeStamp>
+    <typeFullName>
+      <string>BlinkingLightLPFP</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>56ef634b974446b4bb9d5446c6ee83b7</guid>
+    <fileName>Assets/Low Poly FPS Pack/Third_Person_Character/Components/Plane_Demo_Scene_Components/Scripts/FieldOfViewIncreaseLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:53:47+03:00</timeStamp>
+    <typeFullName>
+      <string>FieldOfViewIncreaseLPFP</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a19b6700bb8969347982fcacca939b68</guid>
+    <fileName>Assets/Low Poly FPS Pack/Third_Person_Character/Components/Plane_Demo_Scene_Components/Scripts/PlaneDoorLightsLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:56:05+03:00</timeStamp>
+    <typeFullName>
+      <string>PlaneDoorLightsLPFP</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>103906f4cfc997a4694fccaba179e2e8</guid>
+    <fileName>Assets/Low Poly FPS Pack/Third_Person_Character/Components/Plane_Demo_Scene_Components/Scripts/PropellerRotateLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:51:29+03:00</timeStamp>
+    <typeFullName>
+      <string>PropellerRotateLPFP</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>920abf3add0cc894f806736be5fca74c</guid>
+    <fileName>Assets/Low Poly FPS Pack/Third_Person_Character/Components/Scripts/ThirdPersonDemoLPFP.cs</fileName>
+    <timeStamp>2019-10-28T15:18:09.4278281+02:00</timeStamp>
+    <typeFullName>
+      <string>ThirdPersonDemoLPFP</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f5ea607472a68444785030fb49e7baa8</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/DebrisScript.cs</fileName>
+    <timeStamp>2019-08-22T13:58:33+03:00</timeStamp>
+    <typeFullName>
+      <string>DebrisScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f00dbda9bdee23645ace6aa6df24f827</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/ExplosiveBarrelScript.cs</fileName>
+    <timeStamp>2019-08-22T13:58:26+03:00</timeStamp>
+    <typeFullName>
+      <string>ExplosiveBarrelScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a0b39b5f836f03f46a16810c05de6166</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/GasTankScript.cs</fileName>
+    <timeStamp>2019-08-22T13:56:04+03:00</timeStamp>
+    <typeFullName>
+      <string>GasTankScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2363a5497ecd7e8428f4dd0397521796</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/LightMovementScript.cs</fileName>
+    <timeStamp>2019-08-22T13:52:12+03:00</timeStamp>
+    <typeFullName>
+      <string>LightMovementScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>84978c4e6c8ff8045ab4be4953fccdcf</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/LightningScript.cs</fileName>
+    <timeStamp>2019-08-22T13:55:11+03:00</timeStamp>
+    <typeFullName>
+      <string>LightningScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cbc4c318247cfe2428546d89544fe5d1</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Demo_Scene_Components/Scripts/TargetScript.cs</fileName>
+    <timeStamp>2019-08-22T13:57:19+03:00</timeStamp>
+    <typeFullName>
+      <string>TargetScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>02ff3ea705a4a7244a59eef82e75c660</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Bullet/BulletScript.cs</fileName>
+    <timeStamp>2019-08-22T13:51:06+03:00</timeStamp>
+    <typeFullName>
+      <string>BulletScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>acff82b1c71481f48a9f9884f9f62d6b</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles/CasingScript.cs</fileName>
+    <timeStamp>2019-08-22T13:56:22+03:00</timeStamp>
+    <typeFullName>
+      <string>CasingScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>077210c8970fd2b418f3ecd3191ef5d2</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles/GrenadeScript.cs</fileName>
+    <timeStamp>2019-08-22T13:51:17+03:00</timeStamp>
+    <typeFullName>
+      <string>GrenadeScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8c253d321ee0ea6438f2fe995cd4d43f</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Casings_&amp;_Projectiles/ProjectileScript.cs</fileName>
+    <timeStamp>2019-08-22T13:55:33+03:00</timeStamp>
+    <typeFullName>
+      <string>ProjectileScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad207698945475e40a48abe855897cbe</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts/ExplosionScript.cs</fileName>
+    <timeStamp>2019-08-22T13:56:22+03:00</timeStamp>
+    <typeFullName>
+      <string>ExplosionScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9e1ff595cafaf634c8876e79d424183b</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Explosions_&amp;_Impacts/ImpactScript.cs</fileName>
+    <timeStamp>2019-08-22T13:55:58+03:00</timeStamp>
+    <typeFullName>
+      <string>ImpactScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1ba9a63e484e8f142b3b13cfd976e290</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/FPSController/FpsControllerLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:51:54+03:00</timeStamp>
+    <typeFullName>
+      <string>FPSControllerLPFP.FpsControllerLPFP</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4087c58b6a98ab74a88d12b49899c597</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Mecanim/PlaySoundScript.cs</fileName>
+    <timeStamp>2019-08-22T13:53:11+03:00</timeStamp>
+    <typeFullName>
+      <string>PlaySoundScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>88635f27690f92d479b710922beec8ea</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Misc/LookAtCamera.cs</fileName>
+    <timeStamp>2019-08-22T13:55:20+03:00</timeStamp>
+    <typeFullName>
+      <string>LookAtCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd38df9a0796d9842adfbe580ed6042e</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/AutomaticGunScriptLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:57:45+03:00</timeStamp>
+    <typeFullName>
+      <string>AutomaticGunScriptLPFP</string>
+      <string>AutomaticGunScriptLPFP+weaponAttachmentRenderers</string>
+      <string>AutomaticGunScriptLPFP+prefabs</string>
+      <string>AutomaticGunScriptLPFP+spawnpoints</string>
+      <string>AutomaticGunScriptLPFP+soundClips</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11b47667facbc44418c1f79ef53ed2fa</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/BoltActionSniperScriptLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:51:31+03:00</timeStamp>
+    <typeFullName>
+      <string>BoltActionSniperScriptLPFP</string>
+      <string>BoltActionSniperScriptLPFP+weaponAttachmentRenderers</string>
+      <string>BoltActionSniperScriptLPFP+prefabs</string>
+      <string>BoltActionSniperScriptLPFP+spawnpoints</string>
+      <string>BoltActionSniperScriptLPFP+soundClips</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2f9840b5ff3e0ca489c58a1bcb65aed4</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/GrenadeLauncherScriptLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:52:35+03:00</timeStamp>
+    <typeFullName>
+      <string>GrenadeLauncherScriptLPFP</string>
+      <string>GrenadeLauncherScriptLPFP+weaponAttachmentRenderers</string>
+      <string>GrenadeLauncherScriptLPFP+prefabs</string>
+      <string>GrenadeLauncherScriptLPFP+spawnpoints</string>
+      <string>GrenadeLauncherScriptLPFP+soundClips</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e56ac14cb72efeb4b92cf5cb025a97c0</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/HandgunScriptLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:58:04+03:00</timeStamp>
+    <typeFullName>
+      <string>HandgunScriptLPFP</string>
+      <string>HandgunScriptLPFP+weaponAttachmentRenderers</string>
+      <string>HandgunScriptLPFP+prefabs</string>
+      <string>HandgunScriptLPFP+spawnpoints</string>
+      <string>HandgunScriptLPFP+soundClips</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>454d9b69473a2d248b0dc828be5c49ed</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/PumpShotgunScriptLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:53:17+03:00</timeStamp>
+    <typeFullName>
+      <string>PumpShotgunScriptLPFP</string>
+      <string>PumpShotgunScriptLPFP+weaponAttachmentRenderers</string>
+      <string>PumpShotgunScriptLPFP+prefabs</string>
+      <string>PumpShotgunScriptLPFP+spawnpoints</string>
+      <string>PumpShotgunScriptLPFP+soundClips</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eaab204c61c5c90458f283f0c23b023c</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/RocketLauncherScriptLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:58:14+03:00</timeStamp>
+    <typeFullName>
+      <string>RocketLauncherScriptLPFP</string>
+      <string>RocketLauncherScriptLPFP+prefabs</string>
+      <string>RocketLauncherScriptLPFP+spawnpoints</string>
+      <string>RocketLauncherScriptLPFP+soundClips</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>608461a6e28f17f42ac43d8d1a2fd68c</guid>
+    <fileName>Assets/Low Poly FPS Pack - Free (Sample)/Components/Scripts/Weapon_Scripts/SniperScriptLPFP.cs</fileName>
+    <timeStamp>2019-08-22T13:54:09+03:00</timeStamp>
+    <typeFullName>
+      <string>SniperScriptLPFP</string>
+      <string>SniperScriptLPFP+weaponAttachmentRenderers</string>
+      <string>SniperScriptLPFP+prefabs</string>
+      <string>SniperScriptLPFP+spawnpoints</string>
+      <string>SniperScriptLPFP+soundClips</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>37d2245bc18094b4c9fdf483ef6f6aaa</guid>
+    <fileName>Assets/Nurface/DemoAssets/Scripts/DemoAutowalkInventory.cs</fileName>
+    <timeStamp>2017-06-25T19:35:36+03:00</timeStamp>
+    <typeFullName>
+      <string>DemoAutowalkInventory</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>701af933726fa4f4d9e902f7389a1a75</guid>
+    <fileName>Assets/Nurface/DemoAssets/Scripts/DemoDoorInventory.cs</fileName>
+    <timeStamp>2017-06-25T19:35:46+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.DemoDoorInventory</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5df164c3971be7a479f8c14017e01c11</guid>
+    <fileName>Assets/Nurface/DemoAssets/Scripts/iTween.cs</fileName>
+    <timeStamp>2017-06-25T19:35:41+03:00</timeStamp>
+    <typeFullName>
+      <string>iTween</string>
+      <string>iTween+EaseType</string>
+      <string>iTween+LoopType</string>
+      <string>iTween+NamedValueColor</string>
+      <string>iTween+Defaults</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6203441f6174acb4c82b840ce8ce3c4d</guid>
+    <fileName>Assets/Nurface/VRInventory/Demo/Enemy.cs</fileName>
+    <timeStamp>2017-06-25T19:35:43+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.Enemy</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a1568779b380d5149bdff7a2d606aecd</guid>
+    <fileName>Assets/Nurface/VRInventory/Demo/VRInventoryExampleSceneController.cs</fileName>
+    <timeStamp>2019-11-27T21:07:54.2713505+02:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.VRInventoryExampleSceneController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>00a16394fdc7eb34fb6828069e553d90</guid>
+    <fileName>Assets/Nurface/VRInventory/Demo/EquippableItems/Sword.cs</fileName>
+    <timeStamp>2017-06-25T19:35:20+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.Sword</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d3a18ba9da4002449315924d4030781</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/EditorMouseLook.cs</fileName>
+    <timeStamp>2017-06-25T19:35:23+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.EditorMouseLook</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f238db4dde9d56e419d831e964c6c504</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/EquippableInventoryItemBase.cs</fileName>
+    <timeStamp>2017-06-25T19:36:14+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.EquippableInventoryItemBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>204278cefb8774c4c8fb3b6837da4c8b</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/InventoryItem.cs</fileName>
+    <timeStamp>2019-12-05T15:44:53.3980225+02:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.InventoryItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1e90629ee2bdf3c43abfbb598f7ab31f</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/InventoryItemData.cs</fileName>
+    <timeStamp>2017-06-25T19:35:27+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.InventoryItemData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a2f97daf25088c14f92532f62907412b</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/InventoryItemDatabase.cs</fileName>
+    <timeStamp>2017-06-25T19:35:57+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.InventoryItemDatabase</string>
+      <string>MobileVRInventory.ItemOutlineConfiguration</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1945c28882e67804dabbe73274e83536</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/InventoryItemStack.cs</fileName>
+    <timeStamp>2017-06-25T19:35:25+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.InventoryItemStack</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a12313ae3079561459f3e4077563861c</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/VRInventory.cs</fileName>
+    <timeStamp>2020-01-06T20:30:52.5441408+02:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.VRInventory</string>
+      <string>MobileVRInventory.VRInventory+eInventoryTriggerMode</string>
+      <string>MobileVRInventory.VRInventory+VRInventoryItemSelectEvent</string>
+      <string>MobileVRInventory.VRInventory+ePickUpResult</string>
+      <string>MobileVRInventory.VRInventory+InventoryItemPickupResult</string>
+      <string>MobileVRInventory.VRInventory+VRInventoryItemPickupResultEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fc7c84ec67064664faadaa0272a4a0d2</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/VRInventoryItem.cs</fileName>
+    <timeStamp>2017-06-25T19:36:17+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.VRInventoryItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c35691fbe16c6646bcc2ae13c417817</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/VRInventoryTrigger.cs</fileName>
+    <timeStamp>2017-06-25T19:35:40+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.VRInventoryTrigger</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5d78c19a8fbe41145a181a9e66b84bb2</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/Editor/InventoryItemDatabaseEditor.cs</fileName>
+    <timeStamp>2019-12-01T23:13:51.8679182+02:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.InventoryItemDatabaseEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>207839885d14c974182ee62e82227f09</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/Editor/InventoryItemEditor.cs</fileName>
+    <timeStamp>2017-06-25T19:35:29+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.InventoryItemEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2ca94210e2c42b8458044619ef4e9b09</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/Editor/VRInventoryEditor.cs</fileName>
+    <timeStamp>2020-01-06T20:27:28.6572757+02:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.VRInventoryEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0929c206e2ce5324c84d966cc77b03da</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/Editor/VRInventoryMenuItems.cs</fileName>
+    <timeStamp>2020-01-06T20:25:32.0398779+02:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.VRInventoryMenuItems</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f1a96dbf16a2e6a4590c13aa0758b61a</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/GazeInputModule/GazeInputModuleInventory.cs</fileName>
+    <timeStamp>2020-02-05T14:49:56.8910781+02:00</timeStamp>
+    <typeFullName>
+      <string>GazeInputModuleInventory</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f19d1ca7f17af614d9dbc334ed8d120c</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/GazeInputModule/GazePointerInventory.cs</fileName>
+    <timeStamp>2017-06-25T19:36:13+03:00</timeStamp>
+    <typeFullName>
+      <string>GazePointerInventory</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8f2af03746fd97143a954dead5055f7f</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/GazeInputModule/ReticleControl.cs</fileName>
+    <timeStamp>2017-06-25T19:35:51+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.ReticleControl</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6b56c7f457014b04ba03396a2562a842</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/GazeInputModule/ReticleDotInventory.cs</fileName>
+    <timeStamp>2017-06-25T19:35:46+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileVRInventory.ReticleDotInventory</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c2f3c393338d5b24ca92a66ee33961b2</guid>
+    <fileName>Assets/Nurface/VRInventory/Scripts/GazeInputModule/ReticleRingInventory.cs</fileName>
+    <timeStamp>2017-06-25T19:36:04+03:00</timeStamp>
+    <typeFullName>
+      <string>ReticleRingInventory</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d9e4c25b4cb23a419e1252267f87862</guid>
+    <fileName>Assets/Scripts/ArController.cs</fileName>
+    <timeStamp>2019-12-10T19:53:35.1685793+02:00</timeStamp>
+    <typeFullName>
+      <string>ArController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>781b0a7dfc0a72141b19f215f0df85da</guid>
+    <fileName>Assets/Scripts/balloonGun.cs</fileName>
+    <timeStamp>2020-01-09T16:42:31.7651055+02:00</timeStamp>
+    <typeFullName>
+      <string>balloonGun</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a711bc4afb0e90948b77125140ed0c45</guid>
+    <fileName>Assets/Scripts/bossEnemy.cs</fileName>
+    <timeStamp>2020-01-20T01:42:12.2406685+02:00</timeStamp>
+    <typeFullName>
+      <string>bossEnemy</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>619dae94534c5d74b8ed2c17367d4522</guid>
+    <fileName>Assets/Scripts/BossFood.cs</fileName>
+    <timeStamp>2019-11-26T19:15:37.7990865+02:00</timeStamp>
+    <typeFullName>
+      <string>BossFood</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>760d090f7561902478b5bc575ceb8b41</guid>
+    <fileName>Assets/Scripts/Bullet.cs</fileName>
+    <timeStamp>2019-10-31T17:49:32.1342077+02:00</timeStamp>
+    <typeFullName>
+      <string>Bullet</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>660ccfcba5f5ece4581b8461d288cdc3</guid>
+    <fileName>Assets/Scripts/ChangeTextue.cs</fileName>
+    <timeStamp>2019-11-15T14:18:16.754107+02:00</timeStamp>
+    <typeFullName>
+      <string>ChangeTextue</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>56b8593859fefd046aaf755b5411ed65</guid>
+    <fileName>Assets/Scripts/DisplayHighscore.cs</fileName>
+    <timeStamp>2020-01-14T15:30:48.4055409+02:00</timeStamp>
+    <typeFullName>
+      <string>DisplayHighscore</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3fc66dd0524e80b418340387981d1dd1</guid>
+    <fileName>Assets/Scripts/EnemyAttack.cs</fileName>
+    <timeStamp>2020-01-09T16:30:01.5560441+02:00</timeStamp>
+    <typeFullName>
+      <string>EnemyAttack</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f654aec969eba694cb36381d9675c8d8</guid>
+    <fileName>Assets/Scripts/EnemyHealth.cs</fileName>
+    <timeStamp>2020-01-07T02:36:52.7069605+02:00</timeStamp>
+    <typeFullName>
+      <string>EnemyHealth</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>71bc3ff0f27d881419af677050af8ea2</guid>
+    <fileName>Assets/Scripts/EnemyHP.cs</fileName>
+    <timeStamp>2019-11-19T18:14:57.8691185+02:00</timeStamp>
+    <typeFullName>
+      <string>EnemyHP</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a292f529b35e07d4fb487c5e1ab88282</guid>
+    <fileName>Assets/Scripts/EnemyMovement.cs</fileName>
+    <timeStamp>2020-01-07T02:26:04.8896278+02:00</timeStamp>
+    <typeFullName>
+      <string>EnemyMovement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>077dd34017e7c2c4d9007c6ff12db505</guid>
+    <fileName>Assets/Scripts/EnemyRange.cs</fileName>
+    <timeStamp>2020-01-09T15:27:30.7081766+02:00</timeStamp>
+    <typeFullName>
+      <string>EnemyRange</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad72ea77ad0963b44b53013b80fdc9f4</guid>
+    <fileName>Assets/Scripts/GameManager.cs</fileName>
+    <timeStamp>2020-01-21T00:19:58.9489403+02:00</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4fad2fb87b9ddce44995458ef16a970d</guid>
+    <fileName>Assets/Scripts/Gun_shooting.cs</fileName>
+    <timeStamp>2020-01-07T02:03:01.9448695+02:00</timeStamp>
+    <typeFullName>
+      <string>Gun_shooting</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>990f6c954a2176b419aceb2763a72049</guid>
+    <fileName>Assets/Scripts/Highscores.cs</fileName>
+    <timeStamp>2020-01-14T15:30:23.2629375+02:00</timeStamp>
+    <typeFullName>
+      <string>Highscores</string>
+      <string>Highscore</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>103019e6c57a6e143ae9a6652e1d12d8</guid>
+    <fileName>Assets/Scripts/Inventory.cs</fileName>
+    <timeStamp>2020-01-06T23:17:50.8416009+02:00</timeStamp>
+    <typeFullName>
+      <string>Inventory</string>
+      <string>Inventory+OnItemChanged</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1adde6da6b40a48458ad6f3a36ffb920</guid>
+    <fileName>Assets/Scripts/Item.cs</fileName>
+    <timeStamp>2020-01-09T16:54:44.8125411+02:00</timeStamp>
+    <typeFullName>
+      <string>Item</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476329b20ed7fe84d8a0ce5b39f9763d</guid>
+    <fileName>Assets/Scripts/ItemDrop.cs</fileName>
+    <timeStamp>2020-01-07T02:00:25.7825845+02:00</timeStamp>
+    <typeFullName>
+      <string>ItemDrop</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>924e930c21981ab4da9b4d241d31cb71</guid>
+    <fileName>Assets/Scripts/Letters.cs</fileName>
+    <timeStamp>2019-11-10T01:52:04.1059903+02:00</timeStamp>
+    <typeFullName>
+      <string>Letters</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>904fc27d25bb30542a1e28cce6e12e0a</guid>
+    <fileName>Assets/Scripts/MagicBall.cs</fileName>
+    <timeStamp>2019-11-26T18:18:23.1693317+02:00</timeStamp>
+    <typeFullName>
+      <string>MagicBall</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>68e025e521b16b24c998a730312547f8</guid>
+    <fileName>Assets/Scripts/MenuUI.cs</fileName>
+    <timeStamp>2020-01-07T03:08:39.8994633+02:00</timeStamp>
+    <typeFullName>
+      <string>MenuUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eb2cdd9ffa6432a43b80a06da7a7ea8e</guid>
+    <fileName>Assets/Scripts/moveUp.cs</fileName>
+    <timeStamp>2019-12-17T00:49:34.6169471+02:00</timeStamp>
+    <typeFullName>
+      <string>moveUp</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>10c793a3454437b40bce083a05676905</guid>
+    <fileName>Assets/Scripts/NewTest.cs</fileName>
+    <timeStamp>2019-12-16T21:28:34.052538+02:00</timeStamp>
+    <typeFullName>
+      <string>NewTest</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8b36889898e01244aa1698c3001285b6</guid>
+    <fileName>Assets/Scripts/Options.cs</fileName>
+    <timeStamp>2020-01-07T01:38:30.5831458+02:00</timeStamp>
+    <typeFullName>
+      <string>Options</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fec8a1c57523a724ca34cc036b359a7f</guid>
+    <fileName>Assets/Scripts/PlayerHealth.cs</fileName>
+    <timeStamp>2020-01-07T02:37:07.702928+02:00</timeStamp>
+    <typeFullName>
+      <string>PlayerHealth</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5e42430ed163ef49994abca21e00c8f</guid>
+    <fileName>Assets/Scripts/SaveName.cs</fileName>
+    <timeStamp>2019-11-12T20:06:36.4324623+02:00</timeStamp>
+    <typeFullName>
+      <string>SaveName</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e1da8838fd40f1348bd58924ace848ea</guid>
+    <fileName>Assets/Scripts/Sinking.cs</fileName>
+    <timeStamp>2019-12-11T00:02:59.978819+02:00</timeStamp>
+    <typeFullName>
+      <string>Sinking</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c0113fd0800cf0f4ea93aafefc259fc2</guid>
+    <fileName>Assets/Scripts/StartingGame.cs</fileName>
+    <timeStamp>2019-11-06T19:42:08.7409438+02:00</timeStamp>
+    <typeFullName>
+      <string>StartingGame</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7dfa0bcc251c1954cb5f7af1eeac2dbd</guid>
+    <fileName>Assets/Scripts/TempScript.cs</fileName>
+    <timeStamp>2019-12-03T12:39:01.1395534+02:00</timeStamp>
+    <typeFullName>
+      <string>TempScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11946f757aad7a84296bdf532dc0dd0e</guid>
+    <fileName>Assets/Scripts/Test2.cs</fileName>
+    <timeStamp>2019-12-06T20:23:43.3181722+02:00</timeStamp>
+    <typeFullName>
+      <string>Test2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2eb0d0510dd80184f82533dac2e0e607</guid>
+    <fileName>Assets/Scripts/TestingNewInventory.cs</fileName>
+    <timeStamp>2019-11-26T21:33:23.5349079+02:00</timeStamp>
+    <typeFullName>
+      <string>TestingNewInventory</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>494a77135b5863c45a57bba1637bd93a</guid>
+    <fileName>Assets/Scripts/VRBluetoothController.cs</fileName>
+    <timeStamp>2019-12-17T00:45:16.8410952+02:00</timeStamp>
+    <typeFullName>
+      <string>VRBluetoothController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5204f3b921fbfb748918dfc3fcafd67a</guid>
+    <fileName>Assets/Scripts/WaterGun.cs</fileName>
+    <timeStamp>2020-01-09T16:44:14.0794028+02:00</timeStamp>
+    <typeFullName>
+      <string>WaterGun</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf8396a35a07d8e43a6a56fabda2c187</guid>
+    <fileName>Assets/Scripts/Waypoints.cs</fileName>
+    <timeStamp>2019-11-13T23:11:37.0373206+02:00</timeStamp>
+    <typeFullName>
+      <string>Waypoints</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>06a6d43752a6a6440822e730bd68070c</guid>
+    <fileName>Assets/Vuforia/Editor/Scripts/OpenSourceInitializer.cs</fileName>
+    <timeStamp>2019-06-13T08:19:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0768a105a9bd48409a689214808185f</guid>
+    <fileName>Assets/Vuforia/Scripts/BoundingBoxRenderer.cs</fileName>
+    <timeStamp>2019-06-13T08:19:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c47f92041efbb4b429a4eafca855ebe3</guid>
+    <fileName>Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs</fileName>
+    <timeStamp>2019-06-13T08:19:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fabb808b641aeac42aaabc701a5b885e</guid>
+    <fileName>Assets/Vuforia/Scripts/DefaultModelRecoEventHandler.cs</fileName>
+    <timeStamp>2019-06-13T08:19:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a917f0af64a6423093132dab321c15f</guid>
+    <fileName>Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs</fileName>
+    <timeStamp>2019-06-13T08:19:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2540246fb3ca1c34a9358b891acb61f5</guid>
+    <fileName>Assets/Vuforia/Scripts/Internal/RuntimeOpenSourceInitializer.cs</fileName>
+    <timeStamp>2019-06-13T08:19:39+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
